@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Und hier mal über das ...",
+    "type": "Vortrag",
+    "year": 2020,
+    "link": "https://kaiser-ulrich.de"
+  },{
+    "title": "Hier habe ich mal über dies geredet ...",
+    "type": "Vortrag",
+    "year": 2012,
+    "link": ""
+  },{
+    "title": "Erster Workshop mit den Eltern über die gesundheitsfördernde Wirkung von Haribos",
+    "type": "Workshop",
+    "year": 1980,
+    "link": ""
+  },{
+    "title": "Erster geschriehener Vortrag vor Publikum (Krankenhauspersonal, Mama, usw.)",
+    "type": "Vortrag",
+    "year": 1978,
+    "link": ""
+  }
+]
