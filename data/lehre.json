@@ -1,10 +1,5 @@
 [
     {
-    "title": "Musiktheorie/Gehörbildung JSI",
-    "type": "Gruppenunterricht (SoSe)",
-    "year": 2022,
-    "link": ""
-  },{
     "title": "Gehörbildung BA KPA",
     "type": "Gruppenunterricht (Sose)",
     "year": 2022,
@@ -24,8 +19,7 @@
     "type": "Gruppenunterricht (WiSe)",
     "year": 2022,
     "link": ""
-  },
-  {
+  },{
     "title": "Musiktheorie/Gehörbildung JSI",
     "type": "Gruppenunterricht (SoSe)",
     "year": 2021,
