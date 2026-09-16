@@ -1,48 +1,27 @@
 [
-    {
-    "title": "Gehörbildung BA KPA",
-    "type": "Gruppenunterricht (Sose)",
-    "year": 2022,
-    "link": ""
+  {
+    "title": "Professur für Musiktheorie an der Universität der Künste, Berlin",
+    "type": "",
+    "year": 2019,
+    "end": ,
+    "link": "https://www.udk-berlin.de/person/kilian-sprau/"
   },{
-    "title": "Musiktheorie BA KPA",
-    "type": "Gruppenunterricht (SoSe)",
-    "year": 2022,
-    "link": ""
+    "title": "Mittelbaustelle für Musiktheorie am Lehrstuhl für Musikpädagogik der Universität Augsburg",
+    "type": "",
+    "year": 2012,
+    "end": 2019,
+    "link": "https://www.uni-augsburg.de/de/fakultaet/philsoz/fakultat/musikpaedagogik/"
   },{
-    "title": "Gehörbildung - Tonmeister",
-    "type": "Gruppenunterricht (SoSe)",
-    "year": 2022,
-    "link": ""
+    "title": "Lehrauftrag für Liedgestaltung am Leopold-Mozart-Zentrum der Universität Augsburg",
+    "type": "",
+    "year": 2009,
+    "end": 2015,
+    "link": "https://www.uni-augsburg.de/de/fakultaet/philsoz/lmz/"
   },{
-    "title": "Musiktheorie BA Kirchenmusik 1 und 2",
-    "type": "Gruppenunterricht (WiSe)",
-    "year": 2022,
-    "link": ""
-  },{
-    "title": "Musiktheorie/Gehörbildung JSI",
-    "type": "Gruppenunterricht (SoSe)",
-    "year": 2021,
-    "link": ""
-  },{
-    "title": "Gehörbildung BA KPA",
-    "type": "Gruppenunterricht (Sose)",
-    "year": 2021,
-    "link": ""
-  },{
-    "title": "Musiktheorie BA KPA",
-    "type": "Gruppenunterricht (SoSe)",
-    "year": 2021,
-    "link": ""
-  },{
-    "title": "Gehörbildung - Tonmeister",
-    "type": "Gruppenunterricht (SoSe)",
-    "year": 2021,
-    "link": ""
-  },{
-    "title": "Musiktheorie BA Kirchenmusik 1 und 2",
-    "type": "Einzelunterricht (WiSe)",
-    "year": 2021,
-    "link": ""
+    "title": "Lehraufträge u.a. für Musiktheorie und Gehörbildung an der Hochschule für Musik und Theater München",
+    "type": "",
+    "year": 2000,
+    "end": 2019,
+    "link": "https://hmtm.de/"
   }
 ]
