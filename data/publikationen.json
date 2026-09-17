@@ -65,6 +65,21 @@
     "year": 2023,
     "link": ""
   },{
+    "title": "„<i>Die Freiheit des musikalischen Vortrages</i> (Carl Johannes Dorius Fuchs; Danzig 1885)“, in: <i>Musikästhetik in Europa und Nordamerika</i> (Lexikon Schriften über Musik Bd. 2), hg. von Felix Wörner und Melanie Wald-Fuhrmann, Kassel: Bärenreiter / Stuttgart: Metzler, S. 283–284",
+    "type": "Lexikonartikel",
+    "year": 2023,
+    "link": ""
+  },{
+    "title": "„<i>Präliminarien zu einer Kritik der Tonkunst</i> (Carl Dorius Johannes Fuchs; Diss. Univ. Greifswald 1871)“, in: <i>Musikästhetik in Europa und Nordamerika</i> (Lexikon Schriften über Musik Bd. 2), hg. von Felix Wörner und Melanie Wald-Fuhrmann, Kassel: Bärenreiter / Stuttgart: Metzler, S. 284–285",
+    "type": "Lexikonartikel",
+    "year": 2023,
+    "link": ""
+  },{
+    "title": "„<i>Die Zukunft des musikalischen Vortrages und sein Ursprung</i> (Carl Dorius Johannes Fuchs; Danzig 1884)“, in: <i>Musikästhetik in Europa und Nordamerika</i> (Lexikon Schriften über Musik Bd. 2), hg. von Felix Wörner und Melanie Wald-Fuhrmann, Kassel: Bärenreiter / Stuttgart: Metzler, S. 285–287",
+    "type": "Lexikonartikel",
+    "year": 2023,
+    "link": ""
+  },{
     "title": "„‚As if I was inside a song‘. Musik zum Herrn der Ringe, gesungen vom Autor“, in: <i>Brücken und Grenzen – Bridges and Borders</i> (Jahrbuch der Deutschen Tolkien Gesellschaft 17), hg. von Thomas Fornet-Ponse, Thomas Honegger, Julian T. M. Eilmann und Evelyn Koch, Essen: Oldib, S. 140–161",
     "type": "Beitrag zu Sammelpublikation",
     "year": 2022,
@@ -95,6 +110,11 @@
     "year": 2021,
     "link": "https://doi.org/10.31751/p.54"
   },{
+    "title": "„Operettenorchester“, „Opernorchester“, „Theaterorchester“, in: <i>Lexikon des Orchesters</i> Bd. 2, hg. von Frank Heidlberger, Gesine Schröder und Christoph Wünsch, Lilienthal: Laaber, S. 62–64, 64–67 und 526–528",
+    "type": "Lexikonartikel",
+    "year": 2021,
+    "link": ""
+  },{
     "title": "„‚Wozu die Mühe?‘ Über Begleiterlizenzen und ihr Schwinden aus der Aufführungspraxis des Kunstlieds. Mit Tonträgeranalysen zu Richard Strauss, ‚Zueignung‘ op. 10 Nr. 1“, in: <i>Die Begleiterin – Clara Schumann, Lied und Liedinterpretation (Konferenz im Rahmen der Jahrestagung der Gesellschaft für Musikforschung Paderborn/Detmold, 23. bis 26. September 2019)</i>, hg. von Rebecca Grotjahn und Nina Jaeschke, S. 97−126",
     "type": "Beitrag zu Sammelpublikation",
     "year": 2020,
@@ -120,13 +140,33 @@
     "year": 2019,
     "link": ""
   },{
+    "title": "Peter Malangré / Kilian Sprau: „Musik in Form gebracht!“, in: <i>„Am Puls der Zeit“. 4. Bundeskongress Musikunterricht in Hannover 2018</i> (Musikunterricht Bd. 4), hg. vom Bundeskongress für Musikunterricht, S. 172–178",
+    "type": "Musikdidaktische Publikation",
+    "year": 2019,
+    "link": ""
+  },{
+    "title": "in: <i>Aktives Musikhören. Praxisbuch zur Rezeptionsdidaktik im Musikunterricht</i>, hg. von Georg Biegholdt, Innsbruck: Helbling: <br>• „Eine Programmatik entwickeln. Sekundarstufe“ [zu: F. Poulenc/J. Françaix, L'histoire de Babar, le petit éléphant, Ausschnitte] (S. 121–123), <br>• „Ein Gedicht schreiben oder eine Geschichte schreiben. Sekundarstufe“ [zu: E. Elgar, Variationen über ein eigenes Thema 'Enigma' op. 36, Nr. 3, 11 und 13] (S. 134–136)",
+    "type": "Musikdidaktische Publikation",
+    "year": 2019,
+    "link": ""
+  },{
     "title": "Franz Körndle / Kilian Sprau: „,… und sonderlich ein herrlicher Pralltriller‘. Beiträge zur Erforschung künstlerischer ,Schulenbildung‘“, in: <i>Musik – Pädagogik – Professionalität. Festschrift für Bernhard Hofmann zum 60. Geburtstag</i>, hg. von Gabriele Puffer, Andreas Becker, Franz Körndle und Kilian Sprau, Innsbruck: Helbling, S. 91–117",
     "type": "Beitrag zu Sammelpublikation",
     "year": 2019,
     "link": ""
   },{
+    "title": "<i>„Ein makelloses Werk“. Unterrichtsmaterial zu E. Elgar, Konzert für Violoncello und Orchester e-Moll op. 85</i>, Online-Publikation des Sinfonieorchesters des Bayerischen Rundfunks",
+    "type": "Musikdidaktische Publikation",
+    "year": 2019,
+    "link": ""
+  },{
     "title": "Kommunikation mit dem Publikum. Klaus Obermayer als Vokalkomponist“, in: <i>Klaus Obermayer</i> (Komponisten in Bayern 63), hg. von Theresa Henkel und Franzpeter Meßmer, München: Allitera, S. 57–65",
     "type": "Beitrag zu Sammelpublikation",
+    "year": 2018,
+    "link": ""
+  },{
+    "title": "<i>Die ‚Rheinische‘. Unterrichtsmaterial zu R. Schumann, Symphonie Nr. 3 Es-Dur op. 97</i>, Online-Publikation des Sinfonieorchesters des Bayerischen Rundfunks",
+    "type": "Musikdidaktische Publikation",
     "year": 2018,
     "link": ""
   },{
@@ -140,8 +180,18 @@
     "year": 2017,
     "link": ""
   },{
+    "title": "„Johann Friedrich Daube, ‚Der musikalische Dilettant‘“, in: <i>Musiktheorie von der Antike bis zur Gegenwart</i> (Lexikon Schriften über Musik Bd. 1), hg. von Ullrich Scheideler und Felix Wörner, Kassel: Bärenreiter / Stuttgart: Metzler, S. 110–111",
+    "type": "Lexikonartikel",
+    "year": 2017,
+    "link": ""
+  },{
     "title": "„Strukturierte Kompetenz? Inhalte des LehrplanPLUS (Gymnasium) aus Sicht der Musiktheorie“, in: <i>Plan¦mä¦ßig. Schulmusik unter den Vorzeichen von Bildungsstandards und Kompetenzorientierung. Beiträge zu den Tagen der Bayerischen Schulmusik 2016</i>, hg. von Bernhard Hofmann, Innsbruck: Helbling, S. 117–132",
     "type": "Beitrag zu Sammelpublikation",
+    "year": 2017,
+    "link": ""
+  },{
+    "title": "Winterträume<i>. Unterrichtsmaterial zu P. Tschaikowsky, Symphonie Nr. 1 g-Moll op. 13</i>, Online-Publikation des Sinfonieorchesters des Bayerischen Rundfunks",
+    "type": "Musikdidaktische Publikation",
     "year": 2017,
     "link": ""
   },{
@@ -150,13 +200,33 @@
     "year": 2017,
     "link": ""
   },{
+    "title": "<i>„A pair of star-crossed lovers“. Unterrichtsmaterial zu S. Prokofjew, Romeo und Julia-Suiten op. 64</i>, Online-Publikation des Sinfonieorchesters des Bayerischen Rundfunks",
+    "type": "Musikdidaktische Publikation",
+    "year": 2017,
+    "link": ""
+  },{
+    "title": "<i>Gebet um ewige Seelenruhe. Unterrichtsmaterial zu W.A. Mozart, Requiem KV 626</i>, Online-Publikation des Sinfonieorchesters des Bayerischen Rundfunks",
+    "type": "Musikdidaktische Publikation",
+    "year": 2017,
+    "link": ""
+  },{
     "title": "<i>Liederzyklus als Künstlerdenkmal. Studie zu Robert Schumann, Sechs Gedichte von Nikolaus Lenau und Requiem op. 90. Mit Untersuchungen zur zyklischen Liedkomposition und zur Künstlerrolle in der ersten Hälfte des 19. Jahrhunderts</i> (Musikwissenschaftliche Schriften der Hochschule für Musik und Theater München, Bd. 8). München: Allitera",
     "type": "Monographie",
     "year": 2016,
     "link": "http://nbn-resolving.de/urn:nbn:de:bvb:m29-0000000944"
   },{
+    "title": "<i>Was tut ein Faun am Nachmittag? Unterrichtsmaterial zu C. Debussy, </i>L’après-midi d’un Faune <i>und Villon-Balladen</i>, Online-Publikation des Sinfonieorchesters des Bayerischen Rundfunks",
+    "type": "Musikdidaktische Publikation",
+    "year": 2016,
+    "link": ""
+  },{
     "title": "„écoute-les s’ajouter les mots“ – Zur sprachbezogenen Musik Klaus Hinrich Stahmers, in: <i>Klaus Hinrich Stahmer</i> (Komponisten in Bayern 60), hg. von Theresa Henkel und Franzpeter Messmer, München: Allitera, S. 65–82",
     "type": "Beitrag zu Sammelpublikation",
+    "year": 2016,
+    "link": ""
+  },{
+    "title": "<i>„My friends pictured within“. Unterrichtsmaterial zu E. Elgar, „Enigma“-Variationen op. 36</i>, Online-Publikation des Sinfonieorchesters des Bayerischen Rundfunks",
+    "type": "Musikdidaktische Publikation",
     "year": 2016,
     "link": ""
   },{
@@ -175,7 +245,7 @@
     "year": 2013,
     "link": "https://doi.org/10.31751/712"
   },{
-    "title": "in: <i>Johannes Brahms. Interpretationen seiner Werke</i>, hg. von Claus Bockmaier und Siegfried Mauser, Laaber: Laaber: op. 57 (S. 395–400), op. 58 (S. 401–405), op. 59 (S. 405–412),op. 63 (S. 426–433), op. 74 (S. 511–519), op. 94 (S. 675–682), op. 95 (S. 682–688), op. 109 (S. 798–803), WoO posth. 17 (S. 950–953), WoO posth. 18 (S. 953–959)",
+    "title": "in: <i>Johannes Brahms. Interpretationen seiner Werke</i>, hg. von Claus Bockmaier und Siegfried Mauser, Laaber: Laaber:<br>• 8 Lieder und Gesänge für eine Singstimme mit Klavier op. 57 (S. 395–400)<br>• 8 Lieder und Gesänge für eine Singstimme mit Klavier op. 58 (S. 401–405)<br>• 8 Lieder und Gesänge für eine Singstimme mit Klavier op. 59 (S. 405–412)<br>• 9 Lieder und Gesänge für eine Singstimme mit Klavier op. 63 (S. 426–433)<br>• 2 Motetten für Chor a capella op. 74 (S. 511–519)<br>• 5 Lieder für eine tiefe Stimme mit Klavier op. 94 (S. 675–682)<br>• 7 Lieder für eine Singstimme mit Klavier op. 95 (S. 682–688)<br>• 3 Fest- und Gedenksprüche für achtstimmigen Chor a capella op. 109 (S. 798–803)<br>• Kyrie für vierstimmigen Chor mit Baßo continuo g-Moll WoO posth. 17 (S. 950–953)<br>• Missa canonica für vier- bis fünfst: Chor a capella WoO posth. 18 (S. 953–959)",
     "type": "Beiträge zu Sammelpublikation",
     "year": 2013,
     "link": ""
